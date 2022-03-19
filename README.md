@@ -1,5 +1,8 @@
 # PA
 
+完整项目在[NJUbox](https://box.nju.edu.cn/library/d6c54a1b-4fd0-4037-88f3-2bfe9abd0bcc/PA/)上面
+> 应该不会挂吧就是说
+
 ICS课程项目，相当于实现一个虚拟机，kernel大部分是给好的，最后可以跑简单的小游戏。
 
 > 文件太多了传不上去，看来还得保存那个虚拟机。。。
